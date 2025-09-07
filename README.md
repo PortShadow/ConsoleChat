@@ -1,2 +1,2 @@
 # ConsoleChat
-Full anonymous console chat
+Full anonymous console chat for Linux/Windows from Дядя Сергей
